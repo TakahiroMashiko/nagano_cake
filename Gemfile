@@ -68,3 +68,4 @@ gem 'devise'
 gem "refile", require: "refile/rails", github: 'manfe/refile'
 
 # Install refile-mini_magick
+gem "refile-mini_magick"

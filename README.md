@@ -40,6 +40,9 @@ https://github.com/TakahiroMashiko
 * Takahiro Mashiko  
 https://github.com/TakahiroMashiko
 
+* TakahiroMashiko3122(別アカウント)  
+https://github.com/TakahiroMashiko3122
+
 # 作成期間
 2020/5/3~2020/5/30予定  
 ※作成中

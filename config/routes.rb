@@ -1,5 +1,12 @@
 Rails.application.routes.draw do
-  devise_for :customers
+  namespace :admin do
+    get 'sessions/new'
+    get 'sessions/create'
+    get 'sessions/index'
+  end
+  # admin
   devise_for :admins
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+
+  # customer
+  devise_for :customers
 end
